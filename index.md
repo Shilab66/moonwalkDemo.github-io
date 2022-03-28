@@ -1,5 +1,3 @@
-<style></style>
-
 ## Welcome to [insert name]
 
 [Look a link to another page :O](pageTest.md)
