@@ -1,12 +1,13 @@
-
---bg: #FFF;
---bg-secondary: #f8f8f8;
---headings: #000;
---text: #333;
---links: blue;
---highlight: #FFECB2; // light yellow
---code-text: #9D174D;
---share-text: #999;
+html{
+  --bg: #FFF;
+  --bg-secondary: #f8f8f8;
+  --headings: #000;
+  --text: #333;
+  --links: blue;
+  --highlight: #FFECB2; // light yellow
+  --code-text: #9D174D;
+  --share-text: #999;
+}
 
 ## Welcome to [insert name]
 
