@@ -1,4 +1,4 @@
-<head><link rel="stylesheet" href="moonwalk.css"></head>
+<style>body{color:black}</style>
 
 ## Welcome to [insert name]
 
