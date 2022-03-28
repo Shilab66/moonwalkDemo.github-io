@@ -1,0 +1,6 @@
+navbar_entries:
+  - title: home
+    url: index.md
+
+  - title: about
+    url: pageTest.html
