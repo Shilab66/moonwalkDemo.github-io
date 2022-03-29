@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Welcome to [insert name]
 
 [Look a link to another page :O](pageTest.md)
