@@ -1,5 +1,5 @@
 ---
 layout: post
-title: about
+title: About
 ---
 we exist.
